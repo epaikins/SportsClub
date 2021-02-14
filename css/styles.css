@@ -1,0 +1,31 @@
+.nav-bar{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+.text-li{
+    display: inline-flex;
+    float: right;
+}
+.image-li{
+    display: inline-flex;
+    float:left;
+    height: 70px;
+    width: 100px;
+    padding: 1px 10px;
+}
+
+li a {
+    display: block;
+    color: rgb(199, 76, 76);
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+
+  li a:hover {
+    background-color: rgb(240, 231, 231);
+  }
+  
+.nav-bar-container{
+}
